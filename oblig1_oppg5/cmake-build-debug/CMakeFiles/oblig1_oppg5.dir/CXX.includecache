@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Sondre/CLionProjects/oblig1_oppg5/Node.cpp
+Node.h
+C:/Users/Sondre/CLionProjects/oblig1_oppg5/Node.h
+
+C:/Users/Sondre/CLionProjects/oblig1_oppg5/Node.h
+
+C:/Users/Sondre/CLionProjects/oblig1_oppg5/Stack.cpp
+Stack.h
+C:/Users/Sondre/CLionProjects/oblig1_oppg5/Stack.h
+
+C:/Users/Sondre/CLionProjects/oblig1_oppg5/Stack.h
+Node.h
+C:/Users/Sondre/CLionProjects/oblig1_oppg5/Node.h
+
+C:/Users/Sondre/CLionProjects/oblig1_oppg5/StackArray.cpp
+iostream
+-
+StackArray.h
+C:/Users/Sondre/CLionProjects/oblig1_oppg5/StackArray.h
+
+C:/Users/Sondre/CLionProjects/oblig1_oppg5/StackArray.h
+Stack.h
+C:/Users/Sondre/CLionProjects/oblig1_oppg5/Stack.h
+Node.h
+C:/Users/Sondre/CLionProjects/oblig1_oppg5/Node.h
+
+C:/Users/Sondre/CLionProjects/oblig1_oppg5/main.cpp
+iostream
+-
+Node.h
+C:/Users/Sondre/CLionProjects/oblig1_oppg5/Node.h
+StackArray.h
+C:/Users/Sondre/CLionProjects/oblig1_oppg5/StackArray.h
+Stack.h
+C:/Users/Sondre/CLionProjects/oblig1_oppg5/Stack.h
+

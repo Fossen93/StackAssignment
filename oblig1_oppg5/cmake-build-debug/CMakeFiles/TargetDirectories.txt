@@ -1,0 +1,3 @@
+C:/Users/Sondre/CLionProjects/oblig1_oppg5/cmake-build-debug/CMakeFiles/oblig1_oppg5.dir
+C:/Users/Sondre/CLionProjects/oblig1_oppg5/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Sondre/CLionProjects/oblig1_oppg5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
